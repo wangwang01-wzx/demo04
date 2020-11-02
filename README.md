@@ -75,11 +75,11 @@ public class MainActivity extends AppCompatActivity {
 
 (3)实验截图：
 
-![image-20201102224917359](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20201102224917359.png)、
+![image-20201102224917359](https://github.com/wangwang01-wzx/demo04/blob/master/image-20201102224917359.png)
 
 （4）点击浏览该网页按钮：
 
-![image-20201102224949046](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20201102224949046.png)
+![image-20201102224949046](https://github.com/wangwang01-wzx/demo04/blob/master/image-20201102224949046.png)
 
 
 
@@ -134,4 +134,4 @@ public class MainActivity extends AppCompatActivity {
 
 (3)运行截图：
 
-![image-20201102225017941](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20201102225017941.png)
+![image-20201102225017941](https://github.com/wangwang01-wzx/demo04/blob/master/image-20201102225017941.png)
